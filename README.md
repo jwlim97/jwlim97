@@ -1,6 +1,6 @@
 - Hello, I’m @jwlim97
 - I'm currently living in Los Angeles, California.
-- I've majored Computer Science in California State University, Northridge.
+- I've majored Computer Science
 - I've minored Computer Mathematics.
 - I’m interested in Frontend App/Web Development using React.
 - I’m currently learning Ontological Modeling Language(OML) to implement an API that performs data integration from openCaesar to Autodesk Fusion 360.
